@@ -6,9 +6,9 @@ This batch file will help you run [Orpheus-TTS without a GPU](https://github.com
 
 Before running the script in this repo, follow these steps:
 
-### 1. Set Up a Python Virtual Environment (Recommended)
+### 1. Set Up a Python Virtual Environment
 
-Create and activate a virtual environment to manage dependencies cleanly. This is optional.
+Create and activate a virtual environment to manage dependencies cleanly.
 
 ### 2. Read the No-GPU Setup Guide
 
